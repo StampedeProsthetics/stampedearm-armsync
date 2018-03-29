@@ -1,6 +1,6 @@
 # stampedearm-armsync
-###Master Planning and Brainstorming
-''''ArmSync''' is the software package that interfaces the prosthetic & it's electronics to the Stampede Arm server for updates, diagnostics, debugging and help.
+### Master Planning and Brainstorming
+**ArmSync** is the software package that interfaces the prosthetic & it's electronics to the Stampede Arm server for updates, diagnostics, debugging and help.
 
 Goals
 - [ ] Client Facing - Software should be easy to use for the most basic of customers
